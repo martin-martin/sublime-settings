@@ -1,0 +1,27 @@
+{
+	"added_words":
+	[
+		"Args",
+		"str",
+		"datetime",
+		"timestamp",
+		"blockchain"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage"
+	],
+	"rulers":
+	[
+		72,
+		79
+	],
+	"spell_check": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
